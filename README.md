@@ -20,7 +20,7 @@ Generated Mood Boards: The final mood board, compiled with AI-analyzed images, i
 
 How We Use the Information
 We use the information provided by users to:
-AI-Powered Image Analysis: Analyze uploaded images and reference data to identify visual themes such as mood, color schemes, and shapes.
+AI-Powered Image Analysis: Analyze uploaded images and project briefing data to identify visual themes such as mood, color schemes, and shapes.
 Image Retrieval: Search and retrieve visually relevant images from Pinterest, guided by the project inputs.
 Mood Board Creation: Compile selected images into a visually cohesive Google Slides presentation for creative inspiration and project planning.
 
